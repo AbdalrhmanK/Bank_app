@@ -1,6 +1,6 @@
 # Bank_app
 It is a mini application that displays the services of banks
-The services provided by the application : 
+The services that provided by the application : 
 	1.“Add	a	client”
 	2.“Close	a	client	account”
   3.“Deposit”
